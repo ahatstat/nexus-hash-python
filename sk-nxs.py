@@ -1,4 +1,5 @@
 # skein-keccak 1024 implementation stripped down for NXS
+# Andrew Hatstat
 
 # skein optimization notes
 # The config stage has fixed inputs and should be precomputed.

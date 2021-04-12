@@ -1,5 +1,5 @@
 # skein 1024 implementation for use in Nexus hash
-# Copyright Aperture Mining LLC
+# Aperture Mining LLC
 # Andrew Hatstat
 # June 16, 2018
 
